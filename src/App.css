@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+  background-color: #ffffff;
+  color: #000000;
+  font-family: "Montserrat";
+}
+html {
+  background-color: white;
+}
+
+.title {
+  padding-bottom: 2rem;
+  margin-top: 0;
+}
+
+div {
+  padding: 0;
+}
+
+.footer {
+  padding-top: 10rem;
+}
+
+
+
+.App-link {
+  color: #61dafb;
+}
+.imghead {
+  position: relative;
+  text-align: center;
+}
+.onphoto {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+.overlay-text {
+  position: absolute;
+}
+
+.DisplayImg {
+  position: relative;
+  width: 100%;
+  margin: auto;
+}
+
+.img-thumbnail {
+  border: none !important;
+  background-color: #00000078;
+  padding: 0;
+  border-radius: 0;
+  filter: brightness(0.7);
+}
+
+.topText {
+  position: absolute;
+  top: 90%;
+  left: 1%;
+  align-items: flex-end;
+  color: #61dafb;
+  font-size: 1.7rem;
+}
+
+@media (max-width: 800px) {
+  .DisplayImg > h2 {
+    font-size: 1em;
+  }
+  .DisplayImg > .topText {
+    top: 90% !important;
+    left: 1%;
+    align-items: flex-end !important;
+  }
+}
