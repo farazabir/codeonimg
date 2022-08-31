@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codeonimg/static/css/main.fa90ee05.css",
+    "main.js": "/codeonimg/static/js/main.da3fe32e.js",
+    "index.html": "/codeonimg/index.html",
+    "main.fa90ee05.css.map": "/codeonimg/static/css/main.fa90ee05.css.map",
+    "main.da3fe32e.js.map": "/codeonimg/static/js/main.da3fe32e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa90ee05.css",
+    "static/js/main.da3fe32e.js"
+  ]
+}
