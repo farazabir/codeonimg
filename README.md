@@ -6,11 +6,7 @@ A react js application that helps user to put code on multiple photo same time
 
 
 ## Demo
-
-Insert gif or link to demo
-
 https://farazabir.github.io/codeonimg/
-
 
 ![Logo] 
 ![image](https://user-images.githubusercontent.com/62275863/188308495-3dfa9ee8-26cc-4f74-9bdf-e0a1b66dbbfa.png)
